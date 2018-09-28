@@ -1,0 +1,13 @@
+{
+  "name": "CHPP",
+  "author": "Mathias Schaeffner",
+  "homepage": "",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  }
+}
